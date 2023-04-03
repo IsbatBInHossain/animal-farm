@@ -1,4 +1,5 @@
 # animal-farm
+This is an experimental project for working with vite and creating a very simple react app with a backend server.
 
 ## Frontend Documentation
 This code snippet represents a frontend React component App. The component is responsible for rendering a list of animals that can be searched using a search input field.
